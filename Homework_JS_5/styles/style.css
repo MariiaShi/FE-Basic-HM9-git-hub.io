@@ -1,0 +1,23 @@
+body {
+  padding: 5px;
+  height: 5000px;
+  box-sizing: border-box;
+}
+
+.one{
+  width: 200px;
+  height: 200px;
+  background: #d50909;
+  margin-bottom: 20px;
+}
+
+button{
+  margin-bottom: 20px;
+}
+
+.two{
+  width: 200px;
+  height: 200px;
+  background: #ef9f9f;
+  margin-bottom: 20px;
+}
